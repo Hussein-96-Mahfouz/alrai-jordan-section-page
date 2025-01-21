@@ -343,7 +343,7 @@ clear {
     display: flex;
     flex-flow: row wrap;
     margin: auto;
-    padding: 0px 121px;
+    padding: 0px 16px;
     justify-content: space-between;
 }
 
